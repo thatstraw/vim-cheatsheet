@@ -99,7 +99,7 @@ d       # delete marked text
 ~       # switch case
 ```
 
-## Cut and paste
+## Copy (Yank), Paste (put) , Cut (Delete)
 ```bash
 yy       # yank (copy) a line
 2yy      # yank (copy) 2 lines
