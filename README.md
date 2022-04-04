@@ -179,3 +179,17 @@ gT or :tabprev or :tabp # move to the previous tab
 :tabonly or :tabo       # close all tabs except for the current one
 :tabdo command          # run the command on all tabs (e.g. :tabdo q - closes all opened tabs)
 ```
+# Sponsor this project
+
+**Bitcoin Address**
+```
+bc1q33ncrxzpuc5n02dc05kl44vpmaw53wf3ztq78q
+```
+**Etherium Address**
+```
+0x1c9155bc825CBa45B64741f2E33069d6808AdD92
+```
+**Litecoin Address**
+```
+LRvPjCq3ZNunLz3bnSc4wz4FDJF8AZUJLK
+```
